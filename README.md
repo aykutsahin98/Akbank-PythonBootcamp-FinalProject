@@ -9,7 +9,10 @@ Pizza Sipariş Sistemi, kullanıcıların menüdeki pizzayı ve istedikleri sosl
 # Proje Adımları
 
 * Menu.txt dosyamızdan pizza türleri ve eklenecek malzemeleri önceden oluşturuyoruz.
-* Müşteri uygun seçimi yaptıktan sonra sipariş detayları ile birlikte ödeme kısmına geçer
-* Ödeme kısmında kredi kartı bilgileri alındıktan sonra sipariş şlemi onaylanır
+![resim4](https://user-images.githubusercontent.com/36954450/221944189-05650aef-cc44-428b-9e7c-5aacc7280e27.png)
+* Müşteri uygun seçimi yaptıktan sonra sipariş detayları ile birlikte ödeme kısmına geçer.
+* Ödeme kısmında kredi kartı bilgileri alındıktan sonra sipariş işlemi onaylanır.
+![resim1](https://user-images.githubusercontent.com/36954450/221945230-d4c2dd10-b53b-4e52-87b5-23239e5469d0.png)
 * Son olarak sipariş detayları .csv formatında kaydedilir.
+![resim3](https://user-images.githubusercontent.com/36954450/221944764-680ac6b3-06e1-43d4-a440-98d2bdd183b9.png)
  
